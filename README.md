@@ -1,4 +1,33 @@
-### Hi there 👋
+### Olá Mundo!
+#### Me chamo Dannilo Miranda 👋<br>
+#### Sou Licenciado em Informática e pós graduando em desenvolvimento WEB e Mobile <br>
+#### Um Entusiasta da Tecnologia
+##
+<div style="display: inline_block"><br>
+<p> Novos horizontes</p>
+<img align="center" alt="Dante-Html" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="center" alt="Dante-css" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+          
+<img align="center" alt="Dante-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="Dante-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
+<img align="center" alt="Dante-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+</div> 
+
+##
+
+<div>
+<a href="https://github.com/dannilo12">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=dannilo12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannilo12&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+##
+
+<p> Redes Sociais</p>
+<img align="center" heigth="30" width="90" alt="Dante-linkedin"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+
+##
 
 <!--
 **dannilo12/dannilo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
