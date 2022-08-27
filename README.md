@@ -25,7 +25,7 @@
 ##
 
 <p> Redes Sociais</p>
-<a href="https://www.linkedin.com/in/dannilo-miranda-272328a9/"><img align="center" heigth="30" width="90" target="_blank" alt="Dante-linkedin"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+<a href="https://www.linkedin.com/in/dannilo-miranda-272328a9/" target="_blank"><img align="center" heigth="30" width="90" alt="Dante-linkedin"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 
 ##
 
