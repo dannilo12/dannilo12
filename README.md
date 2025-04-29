@@ -1,6 +1,6 @@
 ### Olá Mundo!
 #### Me chamo Dannilo Miranda 👋<br>
-#### Sou Licenciado em Informática e pós graduando em desenvolvimento WEB e Mobile <br>
+#### Sou Licenciado em Informática <br>
 #### Um Entusiasta da Tecnologia
 ##
 <div style="display: inline_block"><br>
